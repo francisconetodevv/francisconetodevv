@@ -25,7 +25,7 @@ Me chamo José Francisco, 26 anos, natural de Pernambuco. Sou estudante do 7º p
         <img
             alt="LinkedIn"
             title="LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
         />
     </a>
 </p>
