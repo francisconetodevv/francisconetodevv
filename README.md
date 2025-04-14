@@ -1,6 +1,6 @@
 # 👩🏻‍💻 José Francisco
 
-**`Desenvolvedora FullStack || LMM Solutions `**
+**`Desenvolvedor FullStack || LMM Solutions `**
 
 Me chamo José Francisco, 26 anos, natural de Pernambuco. Sou estudante do 7º período de Engenharia Industrial e atuo com pesquisas que misturam engenharia, desenvolvimento de software e automação industrial. Apaixonado por tecnologia, aplico meu domínio da programação para criar ferramentas digitais que simplificam processos industriais, convertendo problemas técnicos em sistemas ágeis e adaptáveis. 
 
@@ -87,14 +87,14 @@ Me chamo José Francisco, 26 anos, natural de Pernambuco. Sou estudante do 7º p
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=francisconetodevv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisconetodevv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
