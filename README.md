@@ -1,4 +1,4 @@
-# 👩🏻‍💻 José Francisco
+# 👨‍💻 José Francisco
 
 **`Desenvolvedor FullStack || LMM Solutions `**
 
