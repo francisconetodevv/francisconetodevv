@@ -4,7 +4,7 @@
 
 Me chamo José Francisco, 26 anos, natural de Pernambuco. Sou estudante do 7º período de Engenharia Industrial e atuo com pesquisas que misturam engenharia, desenvolvimento de software e automação industrial. Apaixonado por tecnologia, aplico meu domínio da programação para criar ferramentas digitais que simplificam processos industriais, convertendo problemas técnicos em sistemas ágeis e adaptáveis. 
 
-#### Redes sociais
+#### Mídias sociais
 
 LinkedIn: "[José Francisco - LinkedIn](https://www.linkedin.com/in/jos%C3%A9-francisco-souza/)"
 
@@ -21,6 +21,13 @@ LinkedIn: "[José Francisco - LinkedIn](https://www.linkedin.com/in/jos%C3%A9-fr
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/francisconetodevv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href=""
+        <img
+            alt="LinkedIn"
+            title="LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
