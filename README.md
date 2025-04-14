@@ -86,11 +86,11 @@ My name is José Francisco, 26 years old, originally from Brazil. I am a 7th-sem
 />
 <img
     align="left" 
-    alt="Golang" 
-    title="Golang"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <br/>
