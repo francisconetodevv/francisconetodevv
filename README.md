@@ -1,10 +1,10 @@
 # 👨‍💻 José Francisco
 
-**`Desenvolvedor FullStack || LMM Solutions `**
+**`Full-Stack Developer || LMM Solutions `**
 
-Me chamo José Francisco, 26 anos, natural de Pernambuco. Sou estudante do 7º período de Engenharia Industrial e atuo com pesquisas que misturam engenharia, desenvolvimento de software e automação industrial. Apaixonado por tecnologia, aplico meu domínio da programação para criar ferramentas digitais que simplificam processos industriais, convertendo problemas técnicos em sistemas ágeis e adaptáveis. 
+My name is José Francisco, 26 years old, originally from Brazil. I am a 7th-semester student of Industrial Engineering and am engaged in research that bridges engineering, software development, and industrial automation. Passionate about technology, I leverage my proficiency in programming to design digital tools that streamline industrial processes, transforming technical challenges into agile and adaptable systems.
 
-#### Mídias sociais
+#### Social Media
 
 <p align="left">
     <a href="https://github.com/francisconetodevv?tab=repositories&sort=stargazers">
@@ -32,7 +32,7 @@ Me chamo José Francisco, 26 anos, natural de Pernambuco. Sou estudante do 7º p
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Technologies
 
 <img 
     align="left" 
@@ -84,11 +84,19 @@ Me chamo José Francisco, 26 anos, natural de Pernambuco. Sou estudante do 7º p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
 />
+<img
+    align="left" 
+    alt="Golang" 
+    title="Golang"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
+/>
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p align="left">
   <img 
