@@ -6,8 +6,6 @@ Me chamo José Francisco, 26 anos, natural de Pernambuco. Sou estudante do 7º p
 
 #### Mídias sociais
 
-LinkedIn: "[José Francisco - LinkedIn](https://www.linkedin.com/in/jos%C3%A9-francisco-souza/)"
-
 <p align="left">
     <a href="https://github.com/francisconetodevv?tab=repositories&sort=stargazers">
         <img 
@@ -23,7 +21,7 @@ LinkedIn: "[José Francisco - LinkedIn](https://www.linkedin.com/in/jos%C3%A9-fr
             src="https://custom-icon-badges.demolab.com/github/followers/francisconetodevv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href=""
+    <a href="https://www.linkedin.com/in/jos%C3%A9-francisco-souza/"
         <img
             alt="LinkedIn"
             title="LinkedIn"
