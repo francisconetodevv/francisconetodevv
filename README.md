@@ -105,6 +105,6 @@ My name is José Francisco, 26 years old, originally from Brazil. I am a 7th-sem
   />
   <img 
     height="160" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisconetodevv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisconetodevv&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6" 
   />
 </p>
