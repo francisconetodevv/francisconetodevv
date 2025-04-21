@@ -1,6 +1,7 @@
 <h1 align="left">About me</h1>
 
 ###
+**`Full-Stack Developer `**
 
 <p align="left">José Francisco, 26 years old, from Brazil. Currently in the 7th semester of Industrial Engineering and engaged in research that integrates:<br><br>- Engineering<br>- Software development<br>- Industrial automation<br><br>Research at @IRIDIUM<br>Adv App/Cloud Supp & Eng Associate at @Accenture</p>
 
