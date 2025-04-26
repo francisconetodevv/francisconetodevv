@@ -21,8 +21,6 @@
 
 <h2 align="left">Technologies</h2>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ###
 
 <div align="left">
