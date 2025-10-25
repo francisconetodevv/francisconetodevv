@@ -1,7 +1,7 @@
 <h1 align="left">About me</h1>
 
 ###
-**`Backend Enthusiast`**`Data Science Enthusiast`
+**`Backend Enthusiast`****`Machine Learning Enthusiast`**
 
 <p align="left">José Francisco, 26 years old, from Brazil. Currently in the 8th semester of Industrial Engineering and engaged in research that integrates:<br><br>• Engineering<br>• Software Engineering<br>• Industrial automation<br><br>Research at @IRIDIUM<br>Adv App/Cloud Supp & Eng Associate at @Accenture</p>
 
